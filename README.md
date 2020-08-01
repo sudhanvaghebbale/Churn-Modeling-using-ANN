@@ -15,7 +15,8 @@
   ```
 
 ## Dataset Desciption
-  * The dataset describes 14 numerical properties of people in different parts of Europe and is concerned with attributes that indicate if a particular customer is wanting to leave the bank. The dataset has the following input categories:
+  * The dataset describes 14 numerical properties of people in different parts of Europe and is concerned with attributes that indicate if a particular customer is wanting to leave the bank. 
+  * The dataset has the following input categories:
     * RowNumber
     * CustomerId
     * Surname
